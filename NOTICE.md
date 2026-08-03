@@ -17,7 +17,7 @@ When reusing or adapting the curriculum, include:
 
 Include a link to the original repository:
 
-https://github.com/drolu-cmyk/sozorock-ai-capability-curriculum
+[SozoRock AI Capability Curriculum repository](https://github.com/drolu-cmyk/sozorock-ai-capability-curriculum)
 
 ## Third-party material
 

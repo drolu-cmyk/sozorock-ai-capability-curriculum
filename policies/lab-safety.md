@@ -12,18 +12,18 @@ This policy applies to every learner, trainer, contributor, and lab environment.
 
 ## Systems and actions
 
-6. Never test a system without authorization.
-7. Do not connect a lab agent to email, payments, social media, production databases, or destructive tools.
-8. Do not allow an AI system to send, delete, purchase, publish, or modify external records without human approval.
-9. Use least privilege, explicit scopes, and reversible actions.
-10. Record model, prompt, data, tool, and version assumptions.
+1. Never test a system without authorization.
+2. Do not connect a lab agent to email, payments, social media, production databases, or destructive tools.
+3. Do not allow an AI system to send, delete, purchase, publish, or modify external records without human approval.
+4. Use least privilege, explicit scopes, and reversible actions.
+5. Record model, prompt, data, tool, and version assumptions.
 
 ## Evidence
 
-11. Label AI-generated output as unverified until checked.
-12. Preserve the test case, expected result, actual result, and reviewer decision.
-13. Do not represent a model output as an authoritative source without verification.
-14. Record limitations, residual risk, and the decision to proceed, redesign, or stop.
+1. Label AI-generated output as unverified until checked.
+2. Preserve the test case, expected result, actual result, and reviewer decision.
+3. Do not represent a model output as an authoritative source without verification.
+4. Record limitations, residual risk, and the decision to proceed, redesign, or stop.
 
 ## Incidents
 

@@ -22,6 +22,6 @@ Under the following terms:
 - Attribution — Give appropriate credit, provide a link to the license, and indicate if changes were made.
 - No additional restrictions — Do not apply legal terms or technological measures that legally restrict others from doing anything the license permits.
 
-Full legal code: https://creativecommons.org/licenses/by/4.0/legalcode
+Full legal code: [Creative Commons legal code](https://creativecommons.org/licenses/by/4.0/legalcode)
 
 Code and software in this repository are licensed separately under the MIT License. See LICENSE.

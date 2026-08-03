@@ -31,7 +31,9 @@ Learners will learn to:
 
 Every mission follows:
 
-**Understand → Observe → Build → Break → Improve → Document → Explain**
+### Mission model
+
+Understand → Observe → Build → Break → Improve → Document → Explain
 
 The program is built around one progressive capstone. Each module adds a capability and a new evidence artifact.
 
