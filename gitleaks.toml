@@ -1,0 +1,11 @@
+[extend]
+useDefault = true
+
+[[allowlists]]
+description = "Educational placeholder phrases are intentionally non-secret."
+regexes = [
+  '''(?i)(your[_-]?api[_-]?key|replace[_-]?with|example[_-]?token)'''
+]
+paths = [
+  '''(?i)(^|/)(fixtures|synthetic-data|examples?)/'''
+]

@@ -1,0 +1,26 @@
+module_id: M04
+title: Structured Workflows and Automation
+version: 0.1.0
+status: complete-draft
+duration_minutes: 150
+level: core
+prerequisites:
+  - M03
+outcomes:
+  - decompose a task into observable workflow steps
+  - define inputs, outputs, decisions, and approvals
+  - design a manual fallback and failure path
+  - test a workflow with incomplete and out-of-scope cases
+deliverables:
+  - workflow-specification
+  - five-case-test-log
+  - approval-boundary
+  - fallback-plan
+frameworks:
+  - NIST AI RMF
+  - NIST CSF 2.0
+safety:
+  - approved-workspace-only
+  - synthetic-or-deidentified-data-only
+  - no-unauthorized-testing
+  - no-secrets-or-personal-data

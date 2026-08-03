@@ -1,0 +1,19 @@
+cff-version: 1.2.0
+message: "If you use or adapt this curriculum, please cite it."
+title: "SozoRock AI Capability Curriculum"
+type: software
+authors:
+  - family-names: Adeyemo
+    given-names: Oluwabiyi
+    affiliation: SozoRock Foundation
+year: 2026
+repository-code: "https://github.com/drolu-cmyk/sozorock-ai-capability-curriculum"
+url: "https://github.com/drolu-cmyk/sozorock-ai-capability-curriculum"
+license: "MIT AND CC-BY-4.0"
+keywords:
+  - artificial intelligence
+  - AI literacy
+  - cybersecurity
+  - governance risk and compliance
+  - responsible AI
+  - workforce development

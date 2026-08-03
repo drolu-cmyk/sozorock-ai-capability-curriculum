@@ -1,0 +1,27 @@
+module_id: M10
+title: GRC Implementation
+version: 0.1.0
+status: complete-draft
+duration_minutes: 180
+level: core
+prerequisites:
+  - M09
+outcomes:
+  - translate AI risks into testable controls
+  - map controls to recognized frameworks
+  - define evidence, owners, frequency, and exceptions
+  - perform a small control test and report the result
+deliverables:
+  - control-matrix
+  - evidence-plan
+  - control-test-record
+  - management-summary
+frameworks:
+  - NIST AI RMF
+  - NIST CSF 2.0
+  - ISO/IEC 42001
+safety:
+  - approved-workspace-only
+  - synthetic-or-deidentified-data-only
+  - no-unauthorized-testing
+  - no-secrets-or-personal-data

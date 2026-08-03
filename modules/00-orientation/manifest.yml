@@ -1,0 +1,26 @@
+module_id: M00
+title: Orientation and Safe Lab Practice
+version: 0.1.0
+status: complete-draft
+duration_minutes: 90
+level: foundation
+prerequisites:
+  - none
+outcomes:
+  - explain the program safety boundary
+  - choose a low-risk AI capability problem
+  - create a baseline and evidence folder
+  - describe a human-review boundary
+deliverables:
+  - learner-agreement
+  - baseline-reflection
+  - low-risk-use-case
+  - evidence-folder
+frameworks:
+  - NIST AI RMF
+  - NIST NICE Framework
+safety:
+  - approved-workspace-only
+  - synthetic-or-deidentified-data-only
+  - no-unauthorized-testing
+  - no-secrets-or-personal-data

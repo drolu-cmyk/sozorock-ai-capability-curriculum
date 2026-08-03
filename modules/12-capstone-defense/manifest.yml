@@ -1,0 +1,27 @@
+module_id: M12
+title: Capstone Defense
+version: 0.1.0
+status: complete-draft
+duration_minutes: 120
+level: capstone
+prerequisites:
+  - M11
+outcomes:
+  - explain the system and its evidence to a mixed audience
+  - defend scope, assumptions, controls, and limitations
+  - respond to challenge questions without overstating certainty
+  - prioritize the next improvement or decision
+deliverables:
+  - executive-briefing
+  - live-or-recorded-demonstration
+  - challenge-log
+  - improvement-plan
+frameworks:
+  - NIST AI RMF
+  - NIST CSF 2.0
+  - ISO/IEC 42001
+safety:
+  - approved-workspace-only
+  - synthetic-or-deidentified-data-only
+  - no-unauthorized-testing
+  - no-secrets-or-personal-data

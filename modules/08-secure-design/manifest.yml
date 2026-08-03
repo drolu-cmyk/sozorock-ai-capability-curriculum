@@ -1,0 +1,27 @@
+module_id: M08
+title: Secure Design and Incident Response
+version: 0.1.0
+status: complete-draft
+duration_minutes: 180
+level: core
+prerequisites:
+  - M07
+outcomes:
+  - translate threats into layered controls
+  - design secure data, identity, logging, and output boundaries
+  - practice an AI incident response tabletop
+  - define recovery and improvement actions
+deliverables:
+  - security-control-plan
+  - incident-playbook
+  - tabletop-record
+  - control-test
+frameworks:
+  - NIST AI RMF
+  - NIST CSF 2.0
+  - ISO/IEC 42001
+safety:
+  - approved-workspace-only
+  - synthetic-or-deidentified-data-only
+  - no-unauthorized-testing
+  - no-secrets-or-personal-data

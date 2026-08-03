@@ -1,0 +1,30 @@
+# Secrets and credentials
+.env
+.env.*
+*.pem
+*.key
+*.p12
+*.pfx
+credentials.json
+secrets.json
+.token
+*.token
+
+# Local and generated files
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+.cache/
+dist/
+build/
+coverage/
+.pytest_cache/
+__pycache__/
+*.pyc
+
+# Learner-private material
+submissions/
+cohort-private/
+learner-data/
+private-assessments/
