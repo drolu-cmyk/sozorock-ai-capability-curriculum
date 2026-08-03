@@ -1,0 +1,25 @@
+module_id: M01
+title: Frame a Safe AI Use Case
+version: 0.1.0
+status: pilot
+duration_minutes: 120
+level: core
+prerequisites:
+  - completed-orientation
+outcomes:
+  - describe a real workflow and its current baseline
+  - identify users, data, decisions, and affected stakeholders
+  - distinguish an AI opportunity from an AI requirement
+  - identify initial privacy, security, and human-oversight risks
+  - define measurable success criteria
+deliverables:
+  - ai-use-case-canvas
+  - five-case-test-set
+  - go-no-go-recommendation
+frameworks:
+  - NIST AI RMF
+  - NIST CSF 2.0
+safety:
+  - synthetic-or-deidentified-data-only
+  - no production credentials
+  - no consequential automated decisions
