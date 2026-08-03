@@ -1,0 +1,21 @@
+module_id: M07
+title: AI Cybersecurity
+version: 0.1.0
+status: scaffolded
+duration_minutes: 150
+level: core
+prerequisites:
+  - M06
+outcomes:
+  - complete the module's practical learner mission
+  - preserve evidence of the work
+  - identify limitations, risks, and human-oversight needs
+deliverables:
+  - threat-model-and-attack-log
+frameworks:
+  - NIST AI RMF
+  - NIST CSF 2.0
+safety:
+  - approved-lab-environment-only
+  - synthetic-or-deidentified-data-only
+  - no-unauthorized-testing

@@ -1,0 +1,25 @@
+module_id: M02
+title: Model Behavior and Interaction Design
+version: 0.1.0
+status: pilot-build
+duration_minutes: 150
+level: core
+prerequisites:
+  - M01
+outcomes:
+  - describe model strengths and limitations in a defined task
+  - create testable instructions and output requirements
+  - compare baseline and improved interactions
+  - test ambiguity, incompleteness, and out-of-scope requests
+  - document uncertainty and human-review boundaries
+deliverables:
+  - interaction-specification
+  - five-case-test-set
+  - prompt-version-log
+  - behavior-report
+frameworks:
+  - NIST AI RMF
+safety:
+  - approved-workspace-only
+  - no secrets-or-personal-data
+  - no requests for irreversible external actions

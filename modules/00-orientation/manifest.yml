@@ -1,0 +1,23 @@
+module_id: M00
+title: Orientation and Safe Lab Practice
+version: 0.1.0
+status: scaffolded
+duration_minutes: 90
+level: core
+prerequisites: []
+outcomes:
+  - navigate the curriculum and cohort workspace
+  - explain the lab safety boundaries
+  - identify prohibited data and actions
+  - establish a baseline of AI experience
+  - choose a low-risk capstone direction
+deliverables:
+  - learner-agreement
+  - baseline-self-assessment
+  - initial-capstone-idea
+frameworks:
+  - SozoRock lab safety policy
+safety:
+  - no secrets
+  - no personal or protected data
+  - no unauthorized testing

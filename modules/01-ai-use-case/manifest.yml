@@ -5,7 +5,7 @@ status: pilot
 duration_minutes: 120
 level: core
 prerequisites:
-  - completed-orientation
+  - M00
 outcomes:
   - describe a real workflow and its current baseline
   - identify users, data, decisions, and affected stakeholders

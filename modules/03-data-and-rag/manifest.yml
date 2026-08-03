@@ -1,0 +1,26 @@
+module_id: M03
+title: Data, Retrieval, and Citations
+version: 0.1.0
+status: pilot-build
+duration_minutes: 180
+level: core
+prerequisites:
+  - M02
+outcomes:
+  - create a source register for approved knowledge
+  - distinguish source authority, freshness, scope, and access
+  - build a grounded question-and-answer workflow
+  - test missing, conflicting, stale, and out-of-scope information
+  - document citation and knowledge-maintenance requirements
+deliverables:
+  - source-register
+  - knowledge-map
+  - retrieval-test-set
+  - citation-audit
+frameworks:
+  - NIST AI RMF
+  - NIST CSF 2.0
+safety:
+  - public-or-approved-synthetic-sources-only
+  - documented-source-permissions
+  - no unapproved personal-data ingestion
