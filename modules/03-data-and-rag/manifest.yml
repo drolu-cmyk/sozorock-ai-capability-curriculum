@@ -21,6 +21,7 @@ frameworks:
   - NIST AI RMF
   - NIST CSF 2.0
 safety:
-  - public-or-approved-synthetic-sources-only
-  - documented-source-permissions
-  - no unapproved personal-data ingestion
+  - approved-workspace-only
+  - synthetic-or-deidentified-data-only
+  - no-unauthorized-testing
+  - no-secrets-or-personal-data

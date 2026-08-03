@@ -21,5 +21,6 @@ frameworks:
   - NIST AI RMF
 safety:
   - approved-workspace-only
-  - no secrets-or-personal-data
-  - no requests for irreversible external actions
+  - synthetic-or-deidentified-data-only
+  - no-unauthorized-testing
+  - no-secrets-or-personal-data
