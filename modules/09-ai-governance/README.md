@@ -1,7 +1,20 @@
-# Module 09 — AI Governance and Risk
+# M09 — AI Governance and Risk
 
-Learners will apply Govern, Map, Measure, and Manage to an AI use case and connect risk decisions to organizational accountability.
+This module is a complete draft pending live trainer-and-learner pilot.
 
-Primary artifact: AI risk register.
+## Learner
 
-Status: scaffolded.
+- [Learner mission](learner-mission.md)
+- [Rubric](rubric.md)
+- [Debrief](debrief.md)
+
+## Trainer
+
+- [Trainer guide](trainer-guide.md)
+- [Module manifest](manifest.yml)
+
+## Evidence
+
+Primary artifact: AI-system-inventory and risk-register.
+
+Use synthetic, public, or explicitly approved de-identified data. Do not test an unauthorized system, upload secrets, or trigger irreversible external actions.

@@ -1,21 +1,27 @@
 module_id: M12
 title: Capstone Defense
 version: 0.1.0
-status: scaffolded
-duration_minutes: 150
-level: core
+status: complete-draft
+duration_minutes: 120
+level: capstone
 prerequisites:
   - M11
 outcomes:
-  - complete the module's practical learner mission
-  - preserve evidence of the work
-  - identify limitations, risks, and human-oversight needs
+  - explain the system and its evidence to a mixed audience
+  - defend scope, assumptions, controls, and limitations
+  - respond to challenge questions without overstating certainty
+  - prioritize the next improvement or decision
 deliverables:
-  - executive-briefing-and-improvement-plan
+  - executive-briefing
+  - live-or-recorded-demonstration
+  - challenge-log
+  - improvement-plan
 frameworks:
   - NIST AI RMF
   - NIST CSF 2.0
+  - ISO/IEC 42001
 safety:
-  - approved-lab-environment-only
+  - approved-workspace-only
   - synthetic-or-deidentified-data-only
   - no-unauthorized-testing
+  - no-secrets-or-personal-data

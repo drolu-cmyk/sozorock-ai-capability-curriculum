@@ -1,7 +1,20 @@
-# Module 05 — Agents, Tools, and Permissions
+# M05 — Agents Tools and Permissions
 
-Learners will design controlled tool use, least-privilege access, action boundaries, approval gates, logs, and safe failure.
+This module is a complete draft pending live trainer-and-learner pilot.
 
-Primary artifact: agent action map.
+## Learner
 
-Status: scaffolded.
+- [Learner mission](learner-mission.md)
+- [Rubric](rubric.md)
+- [Debrief](debrief.md)
+
+## Trainer
+
+- [Trainer guide](trainer-guide.md)
+- [Module manifest](manifest.yml)
+
+## Evidence
+
+Primary artifact: agent-action-map and permission test log.
+
+Use synthetic, public, or explicitly approved de-identified data. Do not test an unauthorized system, upload secrets, or trigger irreversible external actions.

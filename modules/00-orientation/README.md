@@ -1,19 +1,20 @@
-# Module 00 — Orientation and Safe Lab Practice
+# M00 — Orientation and Safe Lab Practice
 
-This module prepares learners to work safely and consistently.
+This module is a complete draft pending live trainer-and-learner pilot.
 
-## Learner outcomes
+## Learner
 
-- Navigate the repository and cohort workspace.
-- Understand the learner/trainer workflow.
-- Identify prohibited data and unsafe actions.
-- Establish a baseline of current AI experience.
-- Choose a low-risk capstone direction.
+- [Learner mission](learner-mission.md)
+- [Rubric](rubric.md)
+- [Debrief](debrief.md)
 
-## Required outputs
+## Trainer
 
-- Learner agreement
-- Baseline self-assessment
-- Initial capstone idea
+- [Trainer guide](trainer-guide.md)
+- [Module manifest](manifest.yml)
 
-Module materials will be expanded after the Module 01 pilot.
+## Evidence
+
+Primary artifact: learner-agreement, baseline, and evidence-folder.
+
+Use synthetic, public, or explicitly approved de-identified data. Do not test an unauthorized system, upload secrets, or trigger irreversible external actions.

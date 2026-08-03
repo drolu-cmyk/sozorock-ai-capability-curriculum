@@ -1,21 +1,27 @@
 module_id: M05
-title: Agents, Tools, and Permissions
+title: Agents Tools and Permissions
 version: 0.1.0
-status: scaffolded
+status: complete-draft
 duration_minutes: 150
 level: core
 prerequisites:
   - M04
 outcomes:
-  - complete the module's practical learner mission
-  - preserve evidence of the work
-  - identify limitations, risks, and human-oversight needs
+  - define an agent boundary and allowed task
+  - separate read, propose, approve, and execute permissions
+  - design stop conditions and audit evidence
+  - test ambiguous, conflicting, and unauthorized requests safely
 deliverables:
   - agent-action-map
+  - permission-matrix
+  - safe-action-test-log
+  - approval-and-stop-rules
 frameworks:
   - NIST AI RMF
   - NIST CSF 2.0
+  - MITRE ATLAS
 safety:
-  - approved-lab-environment-only
+  - approved-workspace-only
   - synthetic-or-deidentified-data-only
   - no-unauthorized-testing
+  - no-secrets-or-personal-data

@@ -1,7 +1,20 @@
-# Module 07 — AI Cybersecurity
+# M07 — AI Cybersecurity
 
-Learners will identify and safely test prompt injection, sensitive-information disclosure, supply-chain risk, data poisoning, improper output handling, excessive agency, and unbounded consumption.
+This module is a complete draft pending live trainer-and-learner pilot.
 
-Primary artifact: threat model and attack log.
+## Learner
 
-Status: scaffolded.
+- [Learner mission](learner-mission.md)
+- [Rubric](rubric.md)
+- [Debrief](debrief.md)
+
+## Trainer
+
+- [Trainer guide](trainer-guide.md)
+- [Module manifest](manifest.yml)
+
+## Evidence
+
+Primary artifact: threat-model and safe-attack-log.
+
+Use synthetic, public, or explicitly approved de-identified data. Do not test an unauthorized system, upload secrets, or trigger irreversible external actions.

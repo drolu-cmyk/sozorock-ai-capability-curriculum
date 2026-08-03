@@ -1,21 +1,29 @@
 module_id: M11
 title: Capstone Build
 version: 0.1.0
-status: scaffolded
-duration_minutes: 150
-level: core
+status: complete-draft
+duration_minutes: 240
+level: capstone
 prerequisites:
   - M10
 outcomes:
-  - complete the module's practical learner mission
-  - preserve evidence of the work
-  - identify limitations, risks, and human-oversight needs
+  - integrate the curriculum into one bounded AI system
+  - demonstrate measurable usefulness and safe failure
+  - connect security, governance, and GRC evidence
+  - communicate tradeoffs to a decision-maker
 deliverables:
-  - working-system-and-evidence-portfolio
+  - working-system-or-prototype
+  - evidence-portfolio
+  - evaluation-report
+  - threat-model
+  - risk-and-control-pack
 frameworks:
   - NIST AI RMF
   - NIST CSF 2.0
+  - ISO/IEC 42001
+  - OWASP Top 10 for LLM Applications
 safety:
-  - approved-lab-environment-only
+  - approved-workspace-only
   - synthetic-or-deidentified-data-only
   - no-unauthorized-testing
+  - no-secrets-or-personal-data

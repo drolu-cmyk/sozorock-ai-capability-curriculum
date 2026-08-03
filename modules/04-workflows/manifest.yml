@@ -1,21 +1,26 @@
 module_id: M04
 title: Structured Workflows and Automation
 version: 0.1.0
-status: scaffolded
+status: complete-draft
 duration_minutes: 150
 level: core
 prerequisites:
   - M03
 outcomes:
-  - complete the module's practical learner mission
-  - preserve evidence of the work
-  - identify limitations, risks, and human-oversight needs
+  - decompose a task into observable workflow steps
+  - define inputs, outputs, decisions, and approvals
+  - design a manual fallback and failure path
+  - test a workflow with incomplete and out-of-scope cases
 deliverables:
   - workflow-specification
+  - five-case-test-log
+  - approval-boundary
+  - fallback-plan
 frameworks:
   - NIST AI RMF
   - NIST CSF 2.0
 safety:
-  - approved-lab-environment-only
+  - approved-workspace-only
   - synthetic-or-deidentified-data-only
   - no-unauthorized-testing
+  - no-secrets-or-personal-data

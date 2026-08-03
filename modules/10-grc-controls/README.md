@@ -1,7 +1,20 @@
-# Module 10 — GRC Implementation
+# M10 — GRC Implementation
 
-Learners will map AI risks to policies, controls, contracts, vendor requirements, monitoring, evidence, and reporting.
+This module is a complete draft pending live trainer-and-learner pilot.
 
-Primary artifact: control matrix and evidence plan.
+## Learner
 
-Status: scaffolded.
+- [Learner mission](learner-mission.md)
+- [Rubric](rubric.md)
+- [Debrief](debrief.md)
+
+## Trainer
+
+- [Trainer guide](trainer-guide.md)
+- [Module manifest](manifest.yml)
+
+## Evidence
+
+Primary artifact: control-matrix and evidence-plan.
+
+Use synthetic, public, or explicitly approved de-identified data. Do not test an unauthorized system, upload secrets, or trigger irreversible external actions.

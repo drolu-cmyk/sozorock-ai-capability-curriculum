@@ -1,7 +1,20 @@
-# Module 12 — Capstone Defense
+# M12 — Capstone Defense
 
-Learners will present the working system, evaluation evidence, threat model, risk treatment, controls, human-oversight plan, and improvement roadmap.
+This module is a complete draft pending live trainer-and-learner pilot.
 
-Primary artifact: executive briefing and improvement plan.
+## Learner
 
-Status: scaffolded.
+- [Learner mission](learner-mission.md)
+- [Rubric](rubric.md)
+- [Debrief](debrief.md)
+
+## Trainer
+
+- [Trainer guide](trainer-guide.md)
+- [Module manifest](manifest.yml)
+
+## Evidence
+
+Primary artifact: executive-briefing and improvement-plan.
+
+Use synthetic, public, or explicitly approved de-identified data. Do not test an unauthorized system, upload secrets, or trigger irreversible external actions.

@@ -1,23 +1,26 @@
 module_id: M00
 title: Orientation and Safe Lab Practice
 version: 0.1.0
-status: scaffolded
+status: complete-draft
 duration_minutes: 90
-level: core
-prerequisites: []
+level: foundation
+prerequisites:
+  - none
 outcomes:
-  - navigate the curriculum and cohort workspace
-  - explain the lab safety boundaries
-  - identify prohibited data and actions
-  - establish a baseline of AI experience
-  - choose a low-risk capstone direction
+  - explain the program safety boundary
+  - choose a low-risk AI capability problem
+  - create a baseline and evidence folder
+  - describe a human-review boundary
 deliverables:
   - learner-agreement
-  - baseline-self-assessment
-  - initial-capstone-idea
+  - baseline-reflection
+  - low-risk-use-case
+  - evidence-folder
 frameworks:
-  - SozoRock lab safety policy
+  - NIST AI RMF
+  - NIST NICE Framework
 safety:
-  - no secrets
-  - no personal or protected data
-  - no unauthorized testing
+  - approved-workspace-only
+  - synthetic-or-deidentified-data-only
+  - no-unauthorized-testing
+  - no-secrets-or-personal-data
