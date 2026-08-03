@@ -1,4 +1,4 @@
-# Curriculum Map
+# Curriculum map
 
 ## Program outcome
 
@@ -8,23 +8,23 @@ By the end of the program, a learner can take an AI use case from problem defini
 
 | Module | Focus | Status | Primary learner artifact |
 |---|---|---|---|
-| 00 | Orientation and safe lab practice | Scaffolded | Learner agreement and baseline |
+| 00 | Orientation and safe lab practice | Complete draft | Learner agreement and baseline |
 | 01 | AI use-case framing | Pilot complete | AI use-case canvas |
 | 02 | Model behavior and interaction design | Pilot build | Prompt and interaction test set |
 | 03 | Data, retrieval, and citations | Pilot build | Source and knowledge map |
-| 04 | Structured workflows and automation | Scaffolded | Workflow specification |
-| 05 | Agents, tools, and permissions | Scaffolded | Agent action map |
-| 06 | Evaluation and monitoring | Scaffolded | Evaluation report |
-| 07 | AI cybersecurity | Scaffolded | Threat model and attack log |
-| 08 | Secure design and incident response | Scaffolded | Security control plan |
-| 09 | AI governance and risk | Scaffolded | AI risk register |
-| 10 | GRC implementation | Scaffolded | Control matrix and evidence plan |
-| 11 | Capstone build | Scaffolded | Working system and evidence portfolio |
-| 12 | Capstone defense | Scaffolded | Executive briefing and improvement plan |
+| 04 | Structured workflows and automation | Complete draft | Workflow specification |
+| 05 | Agents, tools, and permissions | Complete draft | Agent action map |
+| 06 | Evaluation and monitoring | Complete draft | Evaluation report |
+| 07 | AI cybersecurity | Complete draft | Threat model and safe attack log |
+| 08 | Secure design and incident response | Complete draft | Security control plan and playbook |
+| 09 | AI governance and risk | Complete draft | AI system inventory and risk register |
+| 10 | GRC implementation | Complete draft | Control matrix and evidence plan |
+| 11 | Capstone build | Complete draft | Working system and evidence portfolio |
+| 12 | Capstone defense | Complete draft | Executive briefing and improvement plan |
 
 ## Standard mission structure
 
-Every module must contain:
+Every released module must contain:
 
 - Learner mission
 - Trainer guide
@@ -43,7 +43,7 @@ Assessment is evidence-based. Learners are evaluated on what they can build, tes
 
 ## Pathways
 
-Each module should provide:
+Each module provides:
 
 - Core path: accessible to a learner with limited technical experience
 - Build path: adds low-code or API implementation
@@ -51,4 +51,13 @@ Each module should provide:
 
 ## Release gate
 
-A module may move from scaffolded to pilot only after the learner path, trainer path, lab instructions, rubric, safety review, and submission workflow have been tested by a trainer and at least one learner.
+A module may move from complete draft to pilot build only after:
+
+1. A trainer has delivered the instructions.
+2. At least one learner has completed the evidence.
+3. Timing and prerequisites are corrected.
+4. Safety and accessibility checks are passed.
+5. Rubric reliability is reviewed.
+6. The changelog records material changes.
+
+The full program is validated only after M00–M12 pass this gate.

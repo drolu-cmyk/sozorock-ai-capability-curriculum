@@ -19,6 +19,14 @@ Learners will learn to:
 5. Govern AI through documented risk, controls, oversight, and monitoring.
 6. Explain decisions to users, managers, and community stakeholders.
 
+## Start here
+
+- Learners: [learner/START_HERE.md](learner/START_HERE.md)
+- Trainers: [trainer/COHORT_RUNBOOK.md](trainer/COHORT_RUNBOOK.md)
+- Safe lab setup: [lab-kit/SAFE-LAB-SETUP.md](lab-kit/SAFE-LAB-SETUP.md)
+- Curriculum map: [CURRICULUM_MAP.md](CURRICULUM_MAP.md)
+- Learning paths: [docs/LEARNING_PATHS.md](docs/LEARNING_PATHS.md)
+
 ## Curriculum model
 
 Every mission follows:
@@ -29,18 +37,27 @@ The program is built around one progressive capstone. Each module adds a capabil
 
 ## Repository map
 
-- learner/ — learner orientation and navigation
-- trainer/ — facilitation standards and trainer operations
+- learner/ — learner orientation, BYOD, and evidence submission
+- trainer/ — facilitation, assessment, accessibility, and QA
 - modules/ — lessons, labs, rubrics, and module manifests
-- lab-kit/ — safe starter projects, synthetic data, and test cases
+- lab-kit/ — safe setup and synthetic data
 - templates/ — reusable AI, security, and GRC artifacts
 - assessments/ — module and portfolio assessment rules
 - policies/ — safety, data handling, and contribution rules
-- docs/ — project governance, licensing, and release documentation
+- docs/ — standards, licensing, pilot, governance, and release documentation
+- scripts/ — dependency-free repository validation
 
-## Current status
+## Pilot status
 
-Module 01 is the first complete pilot mission. Modules 02 and 03 are being developed next. Modules 04–11 are scaffolded for continued expansion.
+Version 0.1.0 is a pilot release candidate.
+
+- M00 orientation: complete draft
+- M01 use-case framing: pilot complete
+- M02 model behavior: pilot build
+- M03 data, retrieval, and citations: pilot build
+- M04–M12: complete module drafts, pending live trainer-and-learner pilot
+
+Do not advertise the full M00–M12 pathway as validated until the release gate in [CURRICULUM_MAP.md](CURRICULUM_MAP.md) is satisfied.
 
 ## Open-source model
 
@@ -64,14 +81,17 @@ Read [policies/lab-safety.md](policies/lab-safety.md) and [SECURITY.md](SECURITY
 - Contributors: review [CONTRIBUTING.md](CONTRIBUTING.md) and open a focused issue or pull request.
 - Organizations: adapt the curriculum with attribution and preserve the safety boundaries.
 
-## Project governance
+## Governance and release
 
 See:
 
 - [GOVERNANCE.md](GOVERNANCE.md)
 - [ROADMAP.md](ROADMAP.md)
 - [CHANGELOG.md](CHANGELOG.md)
+- [docs/RELEASE_CHECKLIST.md](docs/RELEASE_CHECKLIST.md)
 - [CITATION.cff](CITATION.cff)
+
+This is an educational program. Completion does not confer a professional certification, audit opinion, legal advice, or regulatory approval.
 
 ## Attribution
 

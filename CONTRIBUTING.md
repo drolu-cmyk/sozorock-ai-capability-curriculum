@@ -10,6 +10,7 @@ Read:
 - SECURITY.md
 - policies/lab-safety.md
 - NOTICE.md
+- docs/QUALITY_ASSURANCE.md
 
 ## Contribution types
 
@@ -41,6 +42,7 @@ Every change should identify:
 - The safety or GRC implications
 - The version impact
 - Any external source or license
+- The pilot or validation evidence
 
 ## Module quality gate
 
@@ -56,6 +58,8 @@ A module is ready for pilot review only when it has:
 - Extension challenge
 - Versioned manifest
 - Safety review
+- Accessibility consideration
+- Tool or manual fallback
 
 ## Pull requests
 
@@ -67,4 +71,4 @@ Keep pull requests focused. Include:
 - Safety and licensing review
 - Follow-up work
 
-Use a feature branch. Do not commit secrets, personal data, or learner submissions.
+Use a feature branch. Do not commit secrets, personal data, or learner submissions. Run the repository validation scripts before requesting review.
