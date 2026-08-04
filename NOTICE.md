@@ -2,7 +2,7 @@
 
 ## Copyright
 
-Copyright (c) 2026 Dr Olu.
+Copyright (c) 2026 Dr. Oluwabiyi Adeyemo.
 
 ## License scope
 
@@ -13,7 +13,7 @@ Copyright (c) 2026 Dr Olu.
 
 When reusing or adapting the curriculum, include:
 
-"SozoRock AI Capability Curriculum, by Dr Olu, licensed under CC BY 4.0."
+"SozoRock AI Capability Curriculum, by Dr. Oluwabiyi Adeyemo, licensed under CC BY 4.0."
 
 Include a link to the original repository:
 
