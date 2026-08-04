@@ -6,7 +6,7 @@
 
 A public, hands-on curriculum for learning applied AI, cybersecurity, and AI governance, risk, and compliance.
 
-Public lab site: [ai-lab.sozorockfoundation.org](https://ai-lab.sozorockfoundation.org)
+Public curriculum site: [ai-lab.sozorockfoundation.org/curriculum/](https://ai-lab.sozorockfoundation.org/curriculum/)
 
 The project is designed for learners, trainers, nonprofit organizations, community organizations, public systems, educators, employers, and funders that want practical AI capability without becoming dependent on a single tool or vendor.
 
