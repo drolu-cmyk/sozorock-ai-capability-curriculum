@@ -51,17 +51,9 @@ The program is built around one progressive capstone. Each module adds a capabil
 - docs/ — standards, licensing, pilot, governance, and release documentation
 - scripts/ — dependency-free repository validation
 
-## Pilot status
+## Curriculum status
 
-Version 0.1.0 is a pilot release candidate.
-
-- M00 orientation: complete draft
-- M01 use-case framing: pilot complete
-- M02 model behavior: pilot build
-- M03 data, retrieval, and citations: pilot build
-- M04–M12: complete module drafts, pending live trainer-and-learner pilot
-
-Do not advertise the full M00–M12 pathway as validated until the release gate in [CURRICULUM_MAP.md](CURRICULUM_MAP.md) is satisfied.
+Version 0.1.0 is a pilot release candidate. Modules are at different stages of preparation, and the complete pathway has not yet been validated through a live trainer-and-learner pilot.
 
 ## Open-source model
 
